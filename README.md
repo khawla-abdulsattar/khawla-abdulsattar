@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cybersoldiervx
-- 👀 I’m interested in cyber security, web3 and blockchain, and programming.
+- 👀 I’m interested in cyber security.
 - 🌱 I’m currently learning web3, blockchain, web development,
 - 📫 How to reach me @cybersoldiervx 
 
