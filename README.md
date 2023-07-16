@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm VX(CyberSoldierVX)</h1>
-# 💫 About Me:
-🔭 I’m currently Searching for bugs, CVEs<br>🌱 I’m currently learning  more about Cloud computing <br>and penetration testing, also Web3 Security!<br>💬 Ask me about Cyber security security.<br>
+<h1 align="center">Hi 💫, I'm VX(CyberSoldierVX)</h1>
+🔭 I’m Bug Hunter, Security geek, CS student<br>🌱 I’m currently learning  more about Cloud computing <br>and penetration testing, also Web3 Security!<br>💬 Ask me about Cyber security security.<br>
 
 
 ## 🌐 Socials:
