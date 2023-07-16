@@ -16,11 +16,10 @@ const VX = {
 # 💻 Tech Stack:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cybersoldiervx&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cybersoldiervx&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersoldiervx&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/bde4f327-5143-41ef-bbd1-f1a27f74e512">
-
-[![](https://visitcount.itsvg.in/api?id=cybersoldiervx&icon=0&color=10)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=cybersoldiervx&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cybersoldiervx&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersoldiervx&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/bde4f327-5143-41ef-bbd1-f1a27f74e512">
+
