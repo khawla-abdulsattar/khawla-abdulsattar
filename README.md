@@ -4,8 +4,8 @@
 ```javascript
 const VX = {
   pronouns: "she" | "her",
-  whoimi: ["Bug Hunter","Security geek","Computer science student"],
-  currentlyLearning: ["Cloud computing & virtualization technology", "Web3.0 security ", "penetration testing"],
+  whoimi: ["Part-time bug collector","CyberSecurity geek","Computer science student"],
+  interested_in: ["Cloud computing & virtualization technology", "Web3.0 security ", "penetration testing"],
 
  challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript & Python "
 }
