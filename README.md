@@ -3,8 +3,7 @@
 
 ```javascript
 const VX = {
-  pronouns: "she" | "her",
-  whoimi: ["Part-time bug collector","CyberSecurity geek","Computer science student", backend Developer],
+  whoimi: ["Part-time bug collector","CyberSecurity geek","Computer science student","Backend Developer"],
   interested_in: ["red teaming", "Web3.0 security ", "penetration testing"] "
 }
 ```
