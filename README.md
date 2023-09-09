@@ -4,10 +4,8 @@
 ```javascript
 const VX = {
   pronouns: "she" | "her",
-  whoimi: ["Part-time bug collector","CyberSecurity geek","Computer science student"],
-  interested_in: ["Cloud computing & virtualization technology", "Web3.0 security ", "penetration testing"],
-
- challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript & Python "
+  whoimi: ["Part-time bug collector","CyberSecurity geek","Computer science student", backend Developer],
+  interested_in: ["red teaming", "Web3.0 security ", "penetration testing"] "
 }
 ```
 ## 🌐 Socials:
