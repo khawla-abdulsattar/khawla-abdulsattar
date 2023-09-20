@@ -1,8 +1,8 @@
-<h1 align="center">Hi 💫, I'm Khawla (SciDoll)</h1>
+<h1 align="center">Hi 💫, I'm Khawla (ByteHunter)</h1>
 <img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/126efc26-8a3c-4f41-bfef-d5492b09b6e6">
 
 ```javascript
-const SciDoll = {
+const ByteHunter = {
   whoimi: ["Part-time bug collector","CyberSecurity geek","Computer science student","Backend Developer"],
   interested_in: ["red teaming", "Web3.0 security ", "penetration testing"] "
 }
