@@ -2,7 +2,7 @@
 <img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/126efc26-8a3c-4f41-bfef-d5492b09b6e6">
 
 ```
-    const ResearcherX = {
+  const ResearcherX = {
   whoimi: ["Part-time bug collector","CyberSecurity geek","Computer science student","Backend Developer"],
   interested_in: ["red teaming", "Web3.0 security ", "penetration testing"] "
 }                                                                   
@@ -32,7 +32,6 @@
    ||__|||__|||__|||__||   ││
    |/__\|/__\|/__\|/__\|   │,
 
-```
 ```
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@cybersoldiervx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cybersoldiervx) 
