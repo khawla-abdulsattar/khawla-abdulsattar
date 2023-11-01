@@ -1,35 +1,31 @@
 
 ```
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█ ███ █ ▄▄█▀▄▀█ ██▀▄▄▀█ ▄▀▄ █ ▄▄███▄ ▄█▀▄▄▀███ ▄▀▄ █ ██ ███ ███ █▀▄▄▀█ ▄▄▀█ ██ ▄▀
-█▄▀ ▀▄█ ▄▄█ █▀█ ██ ██ █ █▄█ █ ▄▄████ ██ ██ ███ █▄█ █ ▀▀ ███▄▀ ▀▄█ ██ █ ▀▀▄█ ██ █ 
-██▄█▄██▄▄▄██▄██▄▄██▄▄██▄███▄█▄▄▄████▄███▄▄████▄███▄█▀▀▀▄████▄█▄███▄▄██▄█▄▄█▄▄█▄▄█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-          _..--¯¯¯¯--.._
-      ,-''              `-.
-    ,'                     `.                       
-   ,                         \
-  /                           \
- /          ′.                 \
-'          /  ││                ;
-;       n /│  │/         │      │
-│      / v    /\/`-'v√\'.│\     ,
-:    /v`,———          ————.^.    ;
-'   │  /′@@`,         ,@@ `\│    ;
-│  n│  '.@@/          \@@  /│\  │;                             
-` │ `    ¯¯¯           ¯¯ ¯  │ \/││
- \ \ \                       │ /\/
- '; `-\          `′         /│/ │′
-  `    \       —           /│  │
-   `    `.              .' │  │
-    v,_   `;._     _.-;    │  /
-       `'`\│-_`'-''__/^'^' │ │        
-              ¯¯¯¯¯        │ │
-                           │ /
- Im bug hunter, Develoer   ││
-ComputerPerson,CS student  ││
-   |/__\|/__\|/__\|/__\|   │,
+
+                    _..--¯¯¯¯--.._
+                ,-''              `-.
+              ,'                     `.                       
+             ,                         \                  
+            /                           \                   
+           /          ′.                 \                     
+          '          /  ││                ;                              
+          ;       n /│  │/         │      │
+          │      / v    /\/`-'v√\'.│\     ,
+          :    /v`,———          ————.^.    ;
+          '   │  /′@@`,         ,@@ `\│    ;     hello! Im khawla, aka ResearcherX, Part-time bug collector, and Developer~
+          │  n│  '.@@/          \@@  /│\  │;           Computer science student, wannabe RedTeamer!                  
+          ` │ `    ¯¯¯           ¯¯ ¯  │ \/││            interested_in: ["red teaming", "OSINT", "penetration testing", "RE"]
+           \ \ \                       │ /\/
+           '; `-\          `′         /│/ │′                 and that's all, welcome to my world again!
+            `    \       —           /│  │
+             `    `.              .' │  │
+              v,_   `;._     _.-;    │  /
+                 `'`\│-_`'-''__/^'^' │ │        
+                        ¯¯¯¯¯        │ │
+                                     │ /
+                                     ││
+                                     ││
+                                     │,
 
 ```
 ## 🌐 Socials:
@@ -38,7 +34,8 @@ ComputerPerson,CS student  ││
 # 💻 Tech Stack:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<img src="<img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/2f2bb4dc-7d6d-40a2-b742-6c4e19b061bd">
+
+<img src="<img src="https://github.com/khawla-abdulsattar/khawla-abdulsattar/assets/139021578/e5e6d2f0-d9a5-4893-8426-7cd2719b9726">
 
 
 # 📊 GitHub Stats:
@@ -47,6 +44,5 @@ ComputerPerson,CS student  ││
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersoldiervx&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/bde4f327-5143-41ef-bbd1-f1a27f74e512">
 
 
