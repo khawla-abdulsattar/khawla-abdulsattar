@@ -1,7 +1,6 @@
-<h1 align="center">Hi 💫, I'm Khawla (ResearcherX)</h1>
-
 
 ```
+
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █ ███ █ ▄▄█▀▄▀█ ██▀▄▄▀█ ▄▀▄ █ ▄▄███▄ ▄█▀▄▄▀███ ▄▀▄ █ ██ ███ ███ █▀▄▄▀█ ▄▄▀█ ██ ▄▀
 █▄▀ ▀▄█ ▄▄█ █▀█ ██ ██ █ █▄█ █ ▄▄████ ██ ██ ███ █▄█ █ ▀▀ ███▄▀ ▀▄█ ██ █ ▀▀▄█ ██ █ 
@@ -28,8 +27,8 @@
        `'`\│-_`'-''__/^'^' │ │        
               ¯¯¯¯¯        │ │
                            │ /
-   ||H |||E L|||L |||O ||   ││
-   ||__|||__|||__|||__||   ││
+ Im bug hunter, Develoer   ││
+ComputerPerson,CS student  ││
    |/__\|/__\|/__\|/__\|   │,
 
 ```
@@ -39,7 +38,7 @@
 # 💻 Tech Stack:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/2f2bb4dc-7d6d-40a2-b742-6c4e19b061bd">
+<img src="<img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/2f2bb4dc-7d6d-40a2-b742-6c4e19b061bd">">
 
 
 # 📊 GitHub Stats:
