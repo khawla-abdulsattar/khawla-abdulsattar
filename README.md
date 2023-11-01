@@ -1,11 +1,38 @@
 <h1 align="center">Hi 💫, I'm Khawla (ResearcherX)</h1>
 <img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/126efc26-8a3c-4f41-bfef-d5492b09b6e6">
 
-```javascript
-const ResearcherX = {
+```
+    const ResearcherX = {
   whoimi: ["Part-time bug collector","CyberSecurity geek","Computer science student","Backend Developer"],
   interested_in: ["red teaming", "Web3.0 security ", "penetration testing"] "
-}
+}                                                                   
+
+          _..--¯¯¯¯--.._
+      ,-''              `-.
+    ,'                     `.                       
+   ,                         \
+  /                           \
+ /          ′.                 \
+'          /  ││                ;
+;       n /│  │/         │      │
+│      / v    /\/`-'v√\'.│\     ,
+:    /v`,———          ————.^.    ;
+'   │  /′@@`,         ,@@ `\│    ;
+│  n│  '.@@/          \@@  /│\  │;                             
+` │ `    ¯¯¯           ¯¯ ¯  │ \/││
+ \ \ \                       │ /\/
+ '; `-\          `′         /│/ │′
+  `    \       —           /│  │
+   `    `.              .' │  │
+    v,_   `;._     _.-;    │  /
+       `'`\│-_`'-''__/^'^' │ │        
+              ¯¯¯¯¯        │ │
+                           │ /
+   ||H |||E L|||L |||O ||   ││
+   ||__|||__|||__|||__||   ││
+   |/__\|/__\|/__\|/__\|   │,
+
+```
 ```
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@cybersoldiervx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cybersoldiervx) 
@@ -24,31 +51,4 @@ const ResearcherX = {
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/bde4f327-5143-41ef-bbd1-f1a27f74e512">
 
-```
 
-          _..--¯¯¯¯--.._
-      ,-''              `-.
-    ,'                     `.
-   ,                         \
-  /                           \
- /          ′.                 \
-'          /  ││                ;
-;       n /│  │/         │      │
-│      / v    /\/`-'v√\'.│\     ,
-:    /v`,———          ————.^.    ;
-'   │  /′@@`,         ,@@ `\│    ;
-│  n│  '.@@/          \@@  /│\  │;
-` │ `    ¯¯¯           ¯¯ ¯  │ \/││
- \ \ \                       │ /\/
- '; `-\          `′         /│/ │′
-  `    \       —           /│  │
-   `    `.              .' │  │
-    v,_   `;._     _.-;    │  /
-       `'`\│-_`'-''__/^'^' │ │        
-              ¯¯¯¯¯        │ │
-                           │ /
-   ||H |||E L|||L |||O ||   ││
-   ||__|||__|||__|||__||   ││
-   |/__\|/__\|/__\|/__\|   │,
-
-```
