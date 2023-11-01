@@ -1,5 +1,5 @@
 <h1 align="center">Hi 💫, I'm Khawla (ResearcherX)</h1>
-<img src="[https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/126efc26-8a3c-4f41-bfef-d5492b09b6e6](https://github.com/khawla-abdulsattar/khawla-abdulsattar/assets/139021578/db5c11df-a11e-48b3-b334-2f703f219b72)">
+<img src="https://github.com/cybersoldiervx/cybersoldiervx/assets/139021578/126efc26-8a3c-4f41-bfef-d5492b09b6e6">
 
 ```
   const ResearcherX = {
