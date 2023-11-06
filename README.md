@@ -12,7 +12,7 @@
           ;       n /│  │/         │      │
           │      / v    /\/`-'v√\'.│\     ,
           :    /v`,———          ————.^.    ;
-          '   │  /′@@`,         ,@@ `\│    ;     hello! Im khawla, aka ResearcherX, Part-time bug collector, and Developer~
+          '   │  /′@@`,         ,@@ `\│    ;     hello! welcome to KhawlaWired! am Part-time bug collector, and Developer~
           │  n│  '.@@/          \@@  /│\  │;           Computer science student, wannabe RedTeamer!                  
           ` │ `    ¯¯¯           ¯¯ ¯  │ \/││            interested_in: ["red teaming", "OSINT", "penetration testing", "RE"]
            \ \ \                       │ /\/
