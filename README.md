@@ -12,8 +12,8 @@
           ;       n /│  │/         │      │
           │      / v    /\/`-'v√\'.│\     ,
           :    /v`,———          ————.^.    ;
-          '   │  /′@@`,         ,@@ `\│    ;     hello! welcome to KhawlaWired! am Part-time bug collector, and Developer~
-          │  n│  '.@@/          \@@  /│\  │;           Computer science student, wannabe RedTeamer!                  
+          '   │  /′@@`,         ,@@ `\│    ;     hello! welcome to KhawlaWired! am Ethical Hacker and  Part-time bug collector!
+          │  n│  '.@@/          \@@  /│\  │;            => wannabe RedTeamer!                  
           ` │ `    ¯¯¯           ¯¯ ¯  │ \/││            interested_in: ["red teaming", "OSINT", "penetration testing", "RE"]
            \ \ \                       │ /\/
            '; `-\          `′         /│/ │′                 and that's all, welcome to my world again!
